@@ -1,6 +1,6 @@
 """
 SMART BUDGET & EXPENSE TRACKER
-Author: <Ken Benitez, Melrhenon Flores, Hans Rodis, Jacob Robinion, Enoch Camayang, Anoujh Escolta> <DREAM TEAM>
+Author: <Ken Benitez, Melrhenzon Flores, Hans Rodis, Jacob Robinion, Enoch Camayang, Anoujh Escolta> <DREAM TEAM>
 Course: COMPUTER PROGRAMMING
 Description:
     A program that allows the user to record expenses,
@@ -186,3 +186,4 @@ def main_menu():
 
 # Run Program
 main_menu()
+
